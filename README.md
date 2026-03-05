@@ -10,6 +10,8 @@ Currently focused on building backend and full stack applications using modern w
 
 ## Tech Stack
 
+
+Typescript
 JavaScript  
 Node.js  
 Express  
