@@ -1,16 +1,49 @@
-## Hi there 👋
+# Paulo Fonseca
 
-<!--
-**PauloFonseca89/PauloFonseca89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Porto, Portugal.
 
-Here are some ideas to get you started:
+Hackathon Winner at Bytes4Future and Co-Founder of RecruitXP, an Applicant Tracking System (ATS) platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on building backend and full stack applications using modern web technologies.
+
+---
+
+## Tech Stack
+
+JavaScript  
+Node.js  
+Express  
+Next.js  
+HTML  
+CSS  
+Python  
+Git & GitHub  
+
+---
+
+## Projects
+
+**RecruitXP**  
+Applicant Tracking System platform built after winning a hackathon.
+
+**Task Manager API**  
+REST API for managing tasks with authentication.
+
+**Job Tracker**  
+Web app to track job applications and interview progress.
+
+---
+
+## Currently
+
+Building projects and looking for a **Junior / Entry-Level Developer opportunity**.
+
+---
+
+## Contact
+
+LinkedIn  
+https://www.linkedin.com/in/paulo-fonseca-5b3795250/
+
+Email  
+paulo_fonseca_89@hotmail.com
