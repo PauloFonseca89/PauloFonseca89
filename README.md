@@ -22,19 +22,9 @@ Python
 Git & GitHub  
 
 ---
+## Portfolio
 
-## Projects
-
-**RecruitXP**  
-Applicant Tracking System platform built after winning a hackathon.
-
-**Task Manager API**  
-REST API for managing tasks with authentication.
-
-**Job Tracker**  
-Web app to track job applications and interview progress.
-
----
+https://portefolio-16-04-2026.vercel.app/
 
 ## Currently
 
