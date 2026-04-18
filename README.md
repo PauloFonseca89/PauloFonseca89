@@ -43,6 +43,7 @@ At this stage, the platform is still being actively built, but it’s already cl
 - HTML5
 - CSS3
 - Tailwind CSS
+- tree.js
 
 ### Backend
 - Node.js
