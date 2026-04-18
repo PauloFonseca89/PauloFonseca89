@@ -62,7 +62,7 @@ At this stage, the platform is still being actively built, but it’s already cl
 
 ## 📈 What I'm Working On
 
-- Improving **RecruitXP** as a real-world SaaS-style product
+- Improving **RecruitXP** as mvp
 - Strengthening my **Full Stack** skills
 - Building stronger portfolio projects
 - Preparing for opportunities in **Frontend / Full Stack Development**
