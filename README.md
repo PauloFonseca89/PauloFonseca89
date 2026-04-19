@@ -27,7 +27,7 @@ At this stage, the platform is still being actively built, but it’s already cl
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| ** cs50x-2026 **| New challenge| 30 %
+| **XPcs50x-2026**| New challenge| 30 %
 | **RecruitXP / ATS** | Applicant Tracking System platform focused on recruitment workflows, candidate management and scalable product structure. | TypeScript, React, Node.js, APIs |
 | **DevArt 3D Project** | 3D-focused web project developed as part of practical and creative technical work. | CSS, JavaScript, Web |
 | **Portfolio Website** | Personal portfolio showcasing my projects, skills and developer journey. | JavaScript, Frontend |
