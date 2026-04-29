@@ -25,17 +25,18 @@ At this stage, the platform is still being actively built, but it’s already cl
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-|**Educ-art**|www.educ-art.pt| in progress |
-|**Task-Tracker-Cli**|https://roadmap.sh/projects/task-tracker|backend |
-| **XPcs50x-2026**| New challenge| 30 %|
-| **RecruitXP / ATS** | Applicant Tracking System platform focused on recruitment workflows, candidate management and scalable product structure. | TypeScript, React, Node.js, APIs |
-| **DevArt 3D Project** | 3D-focused web project developed as part of practical and creative technical work. | CSS, JavaScript, Web |
-| **Portfolio Website** | Personal portfolio showcasing my projects, skills and developer journey. | JavaScript, Frontend |
-| **React App Music** | Frontend music-related project built with React, focused on interface and user interaction. | React, JavaScript |
-| **Quiz-Game** | Interactive quiz game built to practice DOM manipulation, state management and responsive frontend interaction through a simple question-and-answer experience. | HTML, CSS, JavaScript |
-|**Task-Tracker-Cli**|https://roadmap.sh/projects/task-tracker|backend |
+| Project | Description | Tech Stack | Data
+|--------|-------------|------------|-------|
+|**Educ-art**|www.educ-art.pt| in progress | hltm, react, node, css, tailwind ! 2026
+|**Task-Tracker-Cli**|https://roadmap.sh/projects/task-tracker|node|2026
+| **DevArt 3D Project** | 3D-focused web project developed as part of practical and creative technical work. | CSS, JavaScript, treejs, 3d objects | 2026
+| **Quiz-Game** | Interactive quiz game built to practice DOM manipulation, state management and responsive frontend interaction through a simple question-and-answer experience. | HTML, CSS, JavaScript | 2026
+| **XPcs50x-2026**| New challenge| 30 %| 2026
+| **RecruitXP / ATS** | Applicant Tracking System platform focused on recruitment workflows, candidate management and scalable product structure. | TypeScript, React, Node.js, APIs, Ci/Cid, Sql |2025/2026
+| **Portfolio Website** | Personal portfolio showcasing my projects, skills and developer journey. | JavaScript, Frontend | 2026
+| **React App Music** | Frontend music-related project built with React, focused on interface and user interaction. | React, JavaScript |2025
+
+
 
 
 
@@ -51,11 +52,15 @@ At this stage, the platform is still being actively built, but it’s already cl
 - CSS3
 - Tailwind CSS
 - tree.js
+- Tailwind
+- html
 
 ### Backend
 - Node.js
 - Express.js
 - REST APIs
+- Json Apis
+- Rest
 
 ### Tools & Concepts
 - Git
