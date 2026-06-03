@@ -94,8 +94,7 @@ At this stage, the platform is still being actively built, but it’s already cl
 
 - Frontend Developer
 - Full Stack Developer
-- Junior Software Engineer
+
 
 ---
 
-> I’m focused on building real skills through real projects — not just tutorials.
