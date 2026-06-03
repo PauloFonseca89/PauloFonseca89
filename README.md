@@ -84,9 +84,9 @@ At this stage, the platform is still being actively built, but it’s already cl
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/paulo-fonseca-5b3795250](https://linkedin.com/in/paulo-fonseca-5b3795250)
+- 💼 LinkedIn: [linkedin.com/in/paulo-fonseca-5b3795250](https://linkedin.com/in/paulo-fonseca)
 - 💻 GitHub: [github.com/PauloFonseca89](https://github.com/PauloFonseca89)
-- 🌐 Portfolio: [portefolio-16-04-2026.vercel.app](https://portefolio-16-04-2026.vercel.app)
+
 
 ---
 
