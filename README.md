@@ -28,7 +28,7 @@ At this stage, the platform is still being actively built, but it’s already cl
 | Project | Description | Tech Stack | Data
 |--------|-------------|------------|-------|
 | **RecruitXP / ATS** | Applicant Tracking System platform focused on recruitment workflows:https://recruitxp.com | TypeScript, React, Node.js, APIs, Ci/Cid, Sql |2025/2026
-|**Educ-art**|www.educ-art.pt| in progress | hltm, react, node, css, tailwind ! 2026
+|**Educ-art**|www.educ-art.pt| javascript. react,php, apis | hltm, react, node, css, tailwind ! 2026
 |**Task-Tracker-Cli**|https://roadmap.sh/projects/task-tracker|node|2026
 | **DevArt 3D Project** | 3D-focused web project developed as part of practical and creative technical work: https://project-dev-art3-d.vercel.app/ | CSS, JavaScript, treejs, 3d objects | 2026
 | **Quiz-Game** | Interactive quiz game built to practice DOM manipulation, state management and responsive frontend interaction through a simple question-and-answer experience. | HTML, CSS, JavaScript | 2026
